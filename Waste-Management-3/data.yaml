@@ -1,0 +1,26 @@
+names:
+- can
+- crampled paper
+- diaper
+- glass
+- junkfood wrapper
+- leaves
+- napkin
+- newspaper
+- plastic bottles
+- plastic cup
+- plastic
+- stick
+- straw
+- styrofoam
+- tissue
+nc: 15
+roboflow:
+  license: CC BY 4.0
+  project: waste-management-ql8tg
+  url: https://universe.roboflow.com/yolov5-6agzx/waste-management-ql8tg/dataset/3
+  version: 3
+  workspace: yolov5-6agzx
+test: ../test/images
+train: Waste-Management-3/train/images
+val: Waste-Management-3/valid/images
